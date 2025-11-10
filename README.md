@@ -15,13 +15,15 @@
 * PostgreSQL 15+
   
 # Запуск 
-* docker-compose up -d ( docker ps - Должны быть: zookeeper и kafka)
+* ```sh docker-compose up -d ``` ( docker ps - Должны быть: zookeeper и kafka)
 
 # Настройка БД 
 * Надо создать 2 БД :  ShopDB (Order/Notification) и AuthDB (Authentication)
 * Миграции накатить вручную если необходимо:
+  ```sh
 cd "Order Service"
 dotnet ef database update
 
 cd "../Authentication Service"
 dotnet ef database update
+```
