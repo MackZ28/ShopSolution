@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "NotificationService.Controllers.HealthController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Health/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

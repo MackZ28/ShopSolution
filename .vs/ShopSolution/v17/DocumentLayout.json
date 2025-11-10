@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ShopSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\controllers\\internalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\controllers\\internalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\services\\authapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\services\\authapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\dtos\\orderwithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\dtos\\orderwithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\interfaces\\iauthapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\interfaces\\iauthapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\dtos\\userlookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\dtos\\userlookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\dtos\\userlookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\dtos\\userlookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\models\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\models\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|c:\\users\\user\\source\\repos\\shopsolution\\common\\orderdata\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|solutionrelative:common\\orderdata\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\authentication service\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977A53C5-565F-40C0-927E-78B8F6C22178}|Authentication Service\\AuthenticationService.csproj|solutionrelative:authentication service\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8791EDE-0999-432F-99DC-C2A96BA905E5}|Notification Service\\NotificationService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\notification service\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8791EDE-0999-432F-99DC-C2A96BA905E5}|Notification Service\\NotificationService.csproj|solutionrelative:notification service\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|c:\\users\\user\\source\\repos\\shopsolution\\common\\orderdata\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|solutionrelative:common\\orderdata\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|c:\\users\\user\\source\\repos\\shopsolution\\order service\\services\\infrastructure\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844F6781-13C5-462A-803B-51773E27DF33}|Order Service\\OrderService.csproj|solutionrelative:order service\\services\\infrastructure\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|c:\\users\\user\\source\\repos\\shopsolution\\common\\orderdata\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|solutionrelative:common\\orderdata\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|c:\\users\\user\\source\\repos\\shopsolution\\common\\orderdata\\dtos\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3FDCB-3444-470E-AA28-9402D19D464D}|Common\\Common.csproj|solutionrelative:common\\orderdata\\dtos\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Order Service\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Order Service\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:12:28.045Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Order Service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "Order Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:08:26.387Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Order Service\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "Order Service\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:57:12.941Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Notification Service\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Notification Service\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Notification Service\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Notification Service\\Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwIwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:39:19.702Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InternalUserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Controllers\\InternalUserController.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Controllers\\InternalUserController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Controllers\\InternalUserController.cs",
+              "RelativeToolTip": "Authentication Service\\Controllers\\InternalUserController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:47:28.643Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderWithUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\DTOs\\OrderWithUserDto.cs",
+              "RelativeDocumentMoniker": "Order Service\\DTOs\\OrderWithUserDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\DTOs\\OrderWithUserDto.cs",
+              "RelativeToolTip": "Order Service\\DTOs\\OrderWithUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:12:44.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\AuthApiService.cs",
+              "RelativeDocumentMoniker": "Order Service\\Services\\AuthApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\AuthApiService.cs",
+              "RelativeToolTip": "Order Service\\Services\\AuthApiService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:07:01.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Interfaces\\IAuthApiService.cs",
+              "RelativeDocumentMoniker": "Order Service\\Interfaces\\IAuthApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Interfaces\\IAuthApiService.cs",
+              "RelativeToolTip": "Order Service\\Interfaces\\IAuthApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:06:29.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLookupDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\DTOs\\UserLookupDto.cs",
+              "RelativeDocumentMoniker": "Order Service\\DTOs\\UserLookupDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\DTOs\\UserLookupDto.cs",
+              "RelativeToolTip": "Order Service\\DTOs\\UserLookupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:05:57.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\OrderService.csproj",
+              "RelativeDocumentMoniker": "Order Service\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\OrderService.csproj",
+              "RelativeToolTip": "Order Service\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T14:05:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLookupDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\UserLookupDto.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\DTOs\\UserLookupDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\UserLookupDto.cs",
+              "RelativeToolTip": "Authentication Service\\DTOs\\UserLookupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:41:09.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Program.cs",
+              "RelativeToolTip": "Authentication Service\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:37:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication Service\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:30:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "Authentication Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:26:47.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Authentication Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:26:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Services\\TokenService.cs",
+              "RelativeToolTip": "Authentication Service\\Services\\TokenService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:58:19.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Authentication Service\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:57:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Config\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Config\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Config\\JwtSettings.cs",
+              "RelativeToolTip": "Authentication Service\\Config\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:17:48.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\appsettings.json",
+              "RelativeToolTip": "Authentication Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T10:14:30.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Authentication Service\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:42:29.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\ApplicationUserRole.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Models\\ApplicationUserRole.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\ApplicationUserRole.cs",
+              "RelativeToolTip": "Authentication Service\\Models\\ApplicationUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:42:02.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "Authentication Service\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:41:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Authentication Service\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:40:46.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Authentication Service\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:40:00.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\DTOs\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "Authentication Service\\DTOs\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:39:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Authentication Service\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:38:54.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "Authentication Service\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:38:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "Authentication Service\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:38:13.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Authentication Service\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Authentication Service\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:34:34.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationService.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "Authentication Service\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Authentication Service\\AuthenticationService.csproj",
+              "RelativeToolTip": "Authentication Service\\AuthenticationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T12:06:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\Infrastructure\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "Order Service\\Services\\Infrastructure\\KafkaSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Services\\Infrastructure\\KafkaSettings.cs",
+              "RelativeToolTip": "Order Service\\Services\\Infrastructure\\KafkaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:42:46.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\DTOs\\UpdateOrderDTO.cs",
+              "RelativeDocumentMoniker": "Common\\OrderData\\DTOs\\UpdateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\DTOs\\UpdateOrderDTO.cs",
+              "RelativeToolTip": "Common\\OrderData\\DTOs\\UpdateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:11:23.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\DTOs\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "Common\\OrderData\\DTOs\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\DTOs\\CreateOrderDTO.cs",
+              "RelativeToolTip": "Common\\OrderData\\DTOs\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:09:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Order Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Order Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:08:49.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Program.cs",
+              "RelativeDocumentMoniker": "Order Service\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Program.cs",
+              "RelativeToolTip": "Order Service\\Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:40:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Order Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\appsettings.json",
+              "RelativeToolTip": "Order Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T09:17:50.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\Order.cs",
+              "RelativeDocumentMoniker": "Common\\OrderData\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\Order.cs",
+              "RelativeToolTip": "Common\\OrderData\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:49:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\User.cs",
+              "RelativeDocumentMoniker": "Common\\OrderData\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Common\\OrderData\\User.cs",
+              "RelativeToolTip": "Common\\OrderData\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:37:40.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Order Service\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ShopSolution\\Order Service\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Order Service\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:13:55.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

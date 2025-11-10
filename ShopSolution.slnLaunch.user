@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Notification Service\\NotificationService.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Order Service\\OrderService.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Authentication Service\\AuthenticationService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+namespace NotificationService.Models
+{
+    public class OrderCreatedEvent
+    {
+        public Guid Id { get; set; }
+        public string ProductName { get; set; } = string.Empty;
+        public int Quantity { get; set; }
+        public DateTime CreatedAt { get; set; }
+    }
+}
+
+
